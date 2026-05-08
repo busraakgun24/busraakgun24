@@ -1,40 +1,35 @@
-<div align="center"> <!--SAyfadaki her şeyi yatayda tam ortaya hizalar-->
-  <br>
-  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #fdf5e6; border-radius: 30px; border: 4px double #d2b48c; overflow: hidden;"><!--İçeriklerin bu yuvarlatılmış köşelerden dışarı taşmamasını sağlar. -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=8fbc8f&height=120&section=header&text=BÜŞRA%20AKGÜN&fontSize=60&fontColor=ffffff&desc=Computer%20Engineering%20Student&descAlignY=65&descSize=20" />
+  <br><br>
+  <table border="0" cellpadding="25" cellspacing="0" style="background-color: #fdf5e6; border-radius: 20px; border: 3px solid #d2b48c;">
     <tr>
-      <td style="padding: 40px;"> 
-        <div align="center">
-          <h2 style="color: #5d4037; font-family: serif; font-style: italic; letter-spacing: 2px;">"Algoritmaları etnik desenlerle dokuyorum."</h2> <!--yazıızı  vurgulu, italik ve harf arası boşlukları açık bir şekilde yazar -->
-          <hr width="50%" style="border: 0.5px dashed #bc8f8f;"> <!--Başlığın altına  adaçayı yeşiili tonlarında kesikli bir çizgi çeker. Bu,görsel bir ayırıcıdır. -->
-        </div>
+      <td align="center">
+        <h2 style="color: #5d4037; font-family: serif; font-style: italic;">"Sürekli öğrenme ve algoritmik disiplinle mimariler inşa ediyorum."</h2>
+        <hr style="border: 0.5px dashed #8fbc8f; width: 80%;">
         <br>
-        <table width="100%" border="0"><!--Profilin ana çerçevesini oluşturur. -->
-          <tr>
-            <td width="100%" valign="top" style="padding: 10px 30px;">
-              <h3 style="color: #8fbc8f; border-bottom: 2px solid #8fbc8f;">🚀 Engineering Focus & Milestones</h3>
-              <p style="color: #5d4037; line-height: 1.8; font-size: 16px;">
-                Analitik düşünen, karmaşık problemleri çözmekten keyif alan ve her gün yeni bir teknoloji öğrenmeye odaklı bir bilgisayar mühendisi adayıyım. Amacım sadece kod yazmak değil; optimize, ölçeklenebilir ve sürdürülebilir sistemler tasarlamak.<br><br>
-                <b>• Teknofest '26:</b> Hayvan davranışlarını analiz eden Görüntü İşleme (Computer Vision) odaklı modelleme projesi.<br>
-                <b>• Envanter & Veritabanı:</b> PyQt5 ve SQLite mimarisiyle sıfırdan geliştirilmiş kapsamlı stok yönetim yazılımı.<br>
-                <b>• Donanım Mimarisi:</b> 555 Timer ve lojik kapılar kullanılarak tasarlanan donanım seviyesi kapasite takip simülasyonu.<br>
-                <b>• Yazılım Mimarisi:</b> Python ve Nesne Yönelimli Programlama (OOP) prensipleriyle kurulan interaktif mantık motorları.
-              </p>
-            </td>
-          </tr>
-        </table>
-        <br>
-        <div align="center" style="background: #eee8aa; padding: 15px; border-radius: 20px;">
-          <img src="https://img.icons8.com/ios-filled/50/5d4037/python.png" width="30"/>&nbsp;&nbsp;
-          <img src="https://img.icons8.com/ios-filled/50/5d4037/java-coffee-cup-logo.png" width="30"/>&nbsp;&nbsp;
-          <img src="https://img.icons8.com/ios-filled/50/5d4037/c-sharp-logo.png" width="30"/>&nbsp;&nbsp;
-          <img src="https://img.icons8.com/ios-filled/50/5d4037/opencv.png" width="30"/>&nbsp;&nbsp;
-          <img src="https://img.icons8.com/ios-filled/50/5d4037/sewing-machine.png" width="30"/>
+        <div align="left" style="color: #5d4037; line-height: 1.6; font-size: 16px; display: inline-block;">
+          <h3 style="color: #8fbc8f;">🚀 Engineering Focus & Milestones</h3>
+          <p>
+            Analitik düşünen, karmaşık problemleri çözmekten keyif alan ve her gün yeni bir teknoloji öğrenmeye<br>
+            odaklı bir bilgisayar mühendisi adayıyım. Amacım sadece kod yazmak değil; optimize, ölçeklenebilir ve<br>
+            sürdürülebilir sistemler tasarlamak.
+          </p>
+          <br>
+          <b>• Teknofest '26:</b> Non invaziv Hayvan sağlığı analizi odaklı Görüntü İşleme (Computer Vision) projesi.<br><br>
+          <b>• Teknofest '24:</b> Roket Yarışması Kapsamında Finalist Seviyesi.<br><br>
+          <b>• Envanter & Veritabanı:</b> PyQt5 ve SQLite mimarisiyle geliştirilmiş mağaza stok yönetimi ve kendin tasarla yazılımı.<br><br>
+          <b>• Donanım Mimarisi:</b> 555 Timer ve lojik kapılarla tasarlanan donanım seviyesi kapasite takip ve doluluk uyarı simülasyonu.<br><br>
         </div>
+        <br><br><br>
+        <p align="center">
+          <img src="https://img.icons8.com/ios-filled/50/5d4037/python.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://img.icons8.com/ios-filled/50/5d4037/java-coffee-cup-logo.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://img.icons8.com/ios-filled/50/5d4037/c-sharp-logo.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://img.icons8.com/ios-filled/50/5d4037/opencv.png" width="35"/>
+        </p>
       </td>
     </tr>
   </table>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Atölyede_Üretimde-8fbc8f?style=for-the-badge&logo=git" />
-  </p>
+ <br>
+  <img src="https://img.shields.io/badge/Status-Sistem_Mimarisi_İnşa_Ediliyor-8fbc8f?style=for-the-badge&logo=git" />
 </div>
