@@ -5,7 +5,7 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="400" valign="top">
-        <img src="https://raw.githubusercontent.com/username/username/main/terminal_bg.png" style="display:none"> <div style="background-color: #2b303b; color: #a3be8c; padding: 15px; border-radius: 10px; font-family: monospace; border: 1px solid #4f5b66;">
+       <div style="background-color: #2b303b; color: #a3be8c; padding: 15px; border-radius: 10px; font-family: monospace; border: 1px solid #4f5b66;">
           <b style="color: #ebcb8b;">>>></b> current_focus: <b>Animal_ML</b><br>
           <b style="color: #ebcb8b;">>>></b> status: <b>Coding...</b><br>
           <br>
