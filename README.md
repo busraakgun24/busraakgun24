@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kalo&color=8fbc8f&height=180&section=header&text=BÜŞRA%20AKGÜN&fontSize=60&animation=fadeIn&fontAlignY=35&desc=The%20Artisan%20Engineer&descAlignY=55&descSize=20" width="100%"/>
   <br>
   <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #fdf5e6; border-radius: 30px; border: 4px double #d2b48c; overflow: hidden;">
     <tr>
