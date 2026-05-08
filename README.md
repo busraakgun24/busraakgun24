@@ -1,36 +1,41 @@
 <div align="center">
-  <h1>🌿 Büşra's Engineering Atelier</h1>
-  <code>Loc: Balıkesir, TR</code> | <code>Major: Computer Engineering (Year 2)</code>
-  <br><br>
-  <table border="0" cellpadding="0" cellspacing="0">
+  <img src="https://capsule-render.vercel.app/render?type=distort&color=8fbc8f&height=140&section=header&text=Büşra%20Akgün&fontSize=45&animation=twinkling&fontAlignY=40&desc=Computer%20Engineering%20Student%20|%20Artisan%20&descAlignY=65" width="100%"/>
+  <br>
+  <table border="0" cellpadding="10" cellspacing="0" style="background-color: #fdf5e6; border-radius: 20px; border: 2px solid #d2b48c; box-shadow: 10px 10px 0px #bc8f8f;">
     <tr>
-      <td width="400" valign="top">
-       <div style="background-color: #2b303b; color: #a3be8c; padding: 15px; border-radius: 10px; font-family: monospace; border: 1px solid #4f5b66;">
-          <b style="color: #ebcb8b;">>>></b> current_focus: <b>Animal_ML</b><br>
-          <b style="color: #ebcb8b;">>>></b> status: <b>Coding...</b><br>
-          <br>
-          <span style="color: #81a1c1;"># Logic over everything</span><br>
-          <span style="color: #b48ead;">while</span> creative:<br>
-          &nbsp;&nbsp;code_beautifully()
-        </div>
+      <td width="55%" valign="top" style="border-right: 1px dashed #bc8f8f; padding: 25px;">
+        <h2 style="color: #5d4037; font-family: serif;">🚀 Engineering Milestones</h2>
+        <ul style="color: #5d4037; font-family: Georgia; line-height: 1.7;">
+          <li><b>Teknofest '26:</b> Animal Behavior Analysis with Computer Vision 🐾</li>
+          <li><b>Inventory System:</b> PyQt5 & SQLite custom stock management software 💻</li>
+          <li><b>Library Logic:</b> Hardware simulation via 555 Timers & Logic Gates 📟</li>
+          <li><b>Narrative Engine:</b> Python-based interactive fiction architecture 📖</li>
+        </ul>
+        <br>
+        <h3 style="color: #8fbc8f; font-family: serif;">⚙️ Tech Stack</h3>
+        <code>Python (OpenCV, PyQt5)</code> • <code>Java</code> • <code>C#</code>
       </td>
-      <td width="20"></td>
-      <td width="300" valign="top">
-        <div style="background-color: #fdf5e6; color: #5d4037; padding: 15px; border-radius: 10px; border: 2px dashed #bc8f8f; font-family: serif;">
-          <h3 style="margin: 0;">📜 Daily Threads</h3>
-          <hr>
-          <small>
-            • Vintage Vest Project<br>
-            • Dark Academia Vibes<br>
-            • 1940s Patterns
-          </small>
+      <td width="45%" valign="top" style="padding: 25px;">
+        <h2 style="color: #5d4037; font-family: serif;">🌿 The Atelier</h2>
+        <p style="color: #8b4513; font-style: italic;">"Stitching logic into vintage aesthetics."</p>
+        <div style="background: #eee8aa; padding: 15px; border-radius: 12px; border: 1px solid #bc8f8f;">
+           <small style="color: #5d4037; line-height: 1.5;">
+             <b>Current Build:</b> Hand-sewn Vintage Vests & Corsets <br>
+             <b>Aesthetic:</b> Dark Academia & Ethnic Textures <br>
+             <b>Hobbies:</b> Cinema Analysis & Technical Grooming
+           </small>
+        </div>
+        <br>
+        <div align="center">
+          <img src="https://img.icons8.com/ios/50/5d4037/sewing-machine.png" width="35"/>
+          &nbsp;&nbsp;
+          <img src="https://img.icons8.com/ios/50/5d4037/processor.png" width="35"/>
+          &nbsp;&nbsp;
+          <img src="https://img.icons8.com/ios/50/5d4037/film-reel.png" width="35"/>
         </div>
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-success?style=flat-square&logo=git" />
 </div>
