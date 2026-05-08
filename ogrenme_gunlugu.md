@@ -1,1 +1,1 @@
-- 08/05/2026 14:27:59.16: Bugn yeni bir algoritma ‡”zld. 
+- 08/05/2026 14:27:59.16: BugÃ¼n yeni bir tasarÄ±m yapÄ±ldÄ± repo busraakgun24. 
