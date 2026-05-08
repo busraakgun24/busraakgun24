@@ -1,30 +1,23 @@
-<div align="center">
+<div align="center"> <!--SAyfadaki her şeyi yatayda tam ortaya hizalar-->
   <br>
-  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #fdf5e6; border-radius: 30px; border: 4px double #d2b48c; overflow: hidden;">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #fdf5e6; border-radius: 30px; border: 4px double #d2b48c; overflow: hidden;"><!--İçeriklerin bu yuvarlatılmış köşelerden dışarı taşmamasını sağlar. -->
     <tr>
       <td style="padding: 40px;"> 
         <div align="center">
-          <h2 style="color: #5d4037; font-family: serif; font-style: italic; letter-spacing: 2px;">"Algoritmaları etnik desenlerle dokuyorum."</h2>
-          <hr width="50%" style="border: 0.5px dashed #bc8f8f;">
+          <h2 style="color: #5d4037; font-family: serif; font-style: italic; letter-spacing: 2px;">"Algoritmaları etnik desenlerle dokuyorum."</h2> <!--yazıızı  vurgulu, italik ve harf arası boşlukları açık bir şekilde yazar -->
+          <hr width="50%" style="border: 0.5px dashed #bc8f8f;"> <!--Başlığın altına  adaçayı yeşiili tonlarında kesikli bir çizgi çeker. Bu,görsel bir ayırıcıdır. -->
         </div>
         <br>
-        <table width="100%" border="0">
+        <table width="100%" border="0"><!--Profilin ana çerçevesini oluşturur. -->
           <tr>
-            <td width="50%" valign="top" style="padding-right: 20px;">
-              <h3 style="color: #8fbc8f; border-bottom: 2px solid #8fbc8f;">🚀 Engineering Archive</h3>
-              <p style="color: #5d4037; line-height: 1.6;">
-                <b>• Teknofest '26:</b> Hayvan davranışlarını analiz eden Görüntü İşleme projesi.<br>
-                <b>• Envanter Sistemi:</b> PyQt5 ve SQLite ile geliştirdiğim artizan stok takip yazılımı.<br>
-                <b>• Donanım Mimarisi:</b> 555 Timer ve lojik kapılarla kütüphane kapasite takip simülasyonu.<br>
-                <b>• İnteraktif Hikaye:</b> Python tabanlı narrative-engine mimarisi.
-              </p>
-            </td>
-            <td width="50%" valign="top" style="padding-left: 20px; border-left: 1px dashed #d2b48c;">
-              <h3 style="color: #bc8f8f; border-bottom: 2px solid #bc8f8f;">🌿 The Atelier</h3>
-              <p style="color: #5d4037; line-height: 1.6;">
-                <b>• Tasarım:</b> Dark Academia estetiğinde vintage yelek ve korse dikimi.<br>
-                <b>• İlham:</b> 1940'lar kesimleri, etnik dokular ve retro sinema analizi.<br>
-                <b>• Yaşam:</b> Yazılımın soğuk mantığını, dikiş makinesinin sıcak ritmiyle birleştiriyorum.
+            <td width="100%" valign="top" style="padding: 10px 30px;">
+              <h3 style="color: #8fbc8f; border-bottom: 2px solid #8fbc8f;">🚀 Engineering Focus & Milestones</h3>
+              <p style="color: #5d4037; line-height: 1.8; font-size: 16px;">
+                Analitik düşünen, karmaşık problemleri çözmekten keyif alan ve her gün yeni bir teknoloji öğrenmeye odaklı bir bilgisayar mühendisi adayıyım. Amacım sadece kod yazmak değil; optimize, ölçeklenebilir ve sürdürülebilir sistemler tasarlamak.<br><br>
+                <b>• Teknofest '26:</b> Hayvan davranışlarını analiz eden Görüntü İşleme (Computer Vision) odaklı modelleme projesi.<br>
+                <b>• Envanter & Veritabanı:</b> PyQt5 ve SQLite mimarisiyle sıfırdan geliştirilmiş kapsamlı stok yönetim yazılımı.<br>
+                <b>• Donanım Mimarisi:</b> 555 Timer ve lojik kapılar kullanılarak tasarlanan donanım seviyesi kapasite takip simülasyonu.<br>
+                <b>• Yazılım Mimarisi:</b> Python ve Nesne Yönelimli Programlama (OOP) prensipleriyle kurulan interaktif mantık motorları.
               </p>
             </td>
           </tr>
