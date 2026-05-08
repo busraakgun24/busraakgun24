@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=8fbc8f&height=120&section=header&text=BÜŞRA%20AKGÜN&fontSize=60&fontColor=ffffff&desc=Computer%20Engineering%20Student&descAlignY=65&descSize=20" />
   <br><br>
   <table border="0" cellpadding="25" cellspacing="0" style="background-color: #fdf5e6; border-radius: 20px; border: 3px solid #d2b48c;">
     <tr>
@@ -25,7 +24,7 @@
           <img src="https://img.icons8.com/ios-filled/50/5d4037/python.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
           <img src="https://img.icons8.com/ios-filled/50/5d4037/java-coffee-cup-logo.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
           <img src="https://img.icons8.com/ios-filled/50/5d4037/c-sharp-logo.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
-          <img src="https://img.icons8.com/ios-filled/50/5d4037/opencv.png" width="35"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
         </p>
       </td>
     </tr>
