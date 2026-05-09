@@ -3,7 +3,7 @@
   <table border="0" cellpadding="25" cellspacing="0" style="background-color: #fdf5e6; border-radius: 20px; border: 3px solid #d2b48c;">
     <tr>
       <td align="center">
-        <h2 style="color: #5d4037; font-family: serif; font-style: italic;">"Algoritmaları Etnik Desnelerle Dokuyorum."</h2>
+        <h2 style="color: #5d4037; font-family: serif; font-style: italic;">"Algoritmaları Etnik Desenlerle Dokuyorum."</h2>
         <hr style="border: 0.5px dashed #8fbc8f; width: 80%;">
         <br>
         <div align="left" style="color: #5d4037; line-height: 1.6; font-size: 16px; display: inline-block;">
