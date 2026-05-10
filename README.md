@@ -1,36 +1,34 @@
 <div align="center">
-  <h1>🌿 Büşra's Engineering Atelier</h1>
-  <code>Loc: Balıkesir, TR</code> | <code>Major: Computer Engineering (Year 2)</code>
   <br><br>
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="25" cellspacing="0" style="background-color: #fdf5e6; border-radius: 20px; border: 3px solid #d2b48c;">
     <tr>
-      <td width="400" valign="top">
-       <div style="background-color: #2b303b; color: #a3be8c; padding: 15px; border-radius: 10px; font-family: monospace; border: 1px solid #4f5b66;">
-          <b style="color: #ebcb8b;">>>></b> current_focus: <b>Animal_ML</b><br>
-          <b style="color: #ebcb8b;">>>></b> status: <b>Coding...</b><br>
+      <td align="center">
+        <h2 style="color: #5d4037; font-family: serif; font-style: italic;">"Algoritmaları Etnik Desenlerle Dokuyorum."</h2>
+        <hr style="border: 0.5px dashed #8fbc8f; width: 80%;">
+        <br>
+        <div align="left" style="color: #5d4037; line-height: 1.6; font-size: 16px; display: inline-block;">
+          <h3 style="color: #8fbc8f;">🚀 Engineering Focus & Milestones</h3>
+          <p>
+            Analitik düşünen, karmaşık problemleri çözmekten keyif alan ve her gün yeni bir teknoloji öğrenmeye<br>
+            odaklı bir bilgisayar mühendisi adayıyım. Amacım sadece kod yazmak değil; optimize, ölçeklenebilir ve<br>
+            sürdürülebilir sistemler tasarlamak.
+          </p>
           <br>
-          <span style="color: #81a1c1;"># Logic over everything</span><br>
-          <span style="color: #b48ead;">while</span> creative:<br>
-          &nbsp;&nbsp;code_beautifully()
+          <b>• Teknofest '26:</b> Non invaziv Hayvan sağlığı analizi odaklı Görüntü İşleme (Computer Vision) projesi.<br><br>
+          <b>• Teknofest '24:</b> Roket Yarışması Kapsamında Finalist Seviyesi.<br><br>
+          <b>• Envanter & Veritabanı:</b> PyQt5 ve SQLite mimarisiyle geliştirilmiş mağaza stok yönetimi ve kendin tasarla yazılımı.<br><br>
+          <b>• Donanım Mimarisi:</b> 555 Timer ve lojik kapılarla tasarlanan donanım seviyesi kapasite takip ve doluluk uyarı simülasyonu.<br><br>
         </div>
-      </td>
-      <td width="20"></td>
-      <td width="300" valign="top">
-        <div style="background-color: #fdf5e6; color: #5d4037; padding: 15px; border-radius: 10px; border: 2px dashed #bc8f8f; font-family: serif;">
-          <h3 style="margin: 0;">📜 Daily Threads</h3>
-          <hr>
-          <small>
-            • Vintage Vest Project<br>
-            • Dark Academia Vibes<br>
-            • 1940s Patterns
-          </small>
-        </div>
+        <br><br><br>
+        <p align="center">
+          <img src="https://img.icons8.com/ios-filled/50/5d4037/python.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://img.icons8.com/ios-filled/50/5d4037/java-coffee-cup-logo.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://img.icons8.com/ios-filled/50/5d4037/c-sharp-logo.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        </p>
       </td>
     </tr>
   </table>
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ <br>
+  <img src="https://img.shields.io/badge/Status-Sistem_Mimarisi_İnşa_Ediliyor-8fbc8f?style=for-the-badge&logo=git" />
 </div>
