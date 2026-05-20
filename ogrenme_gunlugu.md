@@ -7,3 +7,4 @@
 - 11/05/2026 23:59:54.75: GîrÅntÅ iüleme modellerinde veri seti optimizasyonu ve Teknofest proje dokÅmantasyonu Åzerine áalçüçldç. 
 - 14/05/2026 23:58:56.46: Pose estimation ve LSTM modelleri arastirildi. 
 - 18/05/2026 21:54:06.46: Akçllç kÅtÅphane sistemi devresi Åzerine áalçüçldç. 
+- 20/05/2026 22:41:00.17: Javascript áalçüçldç. 
