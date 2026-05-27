@@ -9,3 +9,4 @@
 - 18/05/2026 21:54:06.46: Akçllç kÅtÅphane sistemi devresi Åzerine áalçüçldç. 
 - 20/05/2026 22:41:00.17: Javascript áalçüçldç. 
 - 21/05/2026 23:43:55.81: Sayçsal tasarçm laboratuvarç deney 7 raporu hazçrlandç. SimÅle edildi.  
+- 27/05/2026 21:16:03.47: Pose estimation ve LSTM modelleri arastirildi. 
