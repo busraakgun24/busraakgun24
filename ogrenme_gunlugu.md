@@ -11,3 +11,4 @@
 - 21/05/2026 23:43:55.81: Sayçsal tasarçm laboratuvarç deney 7 raporu hazçrlandç. SimÅle edildi.  
 - 27/05/2026 21:16:03.47: Pose estimation ve LSTM modelleri arastirildi. 
 - 28/05/2026 23:57:58.78:NÅmerik analiz gaus eleme yîntemi programç yazçldç. 
+- 29/05/2026 23:48:22.27:NÅmerik analiz Gauss Seidel programç yazçldç.  
