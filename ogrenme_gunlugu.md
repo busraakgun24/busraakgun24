@@ -13,3 +13,4 @@
 - 28/05/2026 23:57:58.78:NÅmerik analiz gaus eleme yîntemi programç yazçldç. 
 - 29/05/2026 23:48:22.27:NÅmerik analiz Gauss Seidel programç yazçldç.  
 - 30/05/2026 23:59:11.28: Gîrsel programlama uygulamasç Åzerine áalçüçldç. 
+- 31/05/2026 23:57:37.21: Sayçsal analiz D tipi flip flop áalçüçldç 
