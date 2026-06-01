@@ -14,3 +14,4 @@
 - 29/05/2026 23:48:22.27:NÅmerik analiz Gauss Seidel programç yazçldç.  
 - 30/05/2026 23:59:11.28: Gîrsel programlama uygulamasç Åzerine áalçüçldç. 
 - 31/05/2026 23:57:37.21: Sayçsal analiz D tipi flip flop áalçüçldç 
+- 01/06/2026 23:58:48.33: Etkili iletiüim dersi iáin sunum hazçrlandç. 
