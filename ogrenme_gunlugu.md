@@ -16,3 +16,4 @@
 - 31/05/2026 23:57:37.21: Sayçsal analiz D tipi flip flop áalçüçldç 
 - 01/06/2026 23:58:48.33: Etkili iletiüim dersi iáin sunum hazçrlandç. 
 - 02/06/2026 23:56:26.71: Gîrsel programlama atîlye uygulamasçna yorum satçrlarç ekleniyor. 
+- 06/06/2026 23:58:39.18: Akçllç kÅtÅphane kapasite kapasite takip ve doluluk uyarç sistemi projesi bitirildi.  
