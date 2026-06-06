@@ -17,3 +17,4 @@
 - 01/06/2026 23:58:48.33: Etkili iletiŸim dersi i‡in sunum hazrland. 
 - 02/06/2026 23:56:26.71: G”rsel programlama at”lye uygulamasna yorum satrlar ekleniyor. 
 - 06/06/2026 23:58:39.18: Akll ktphane kapasite kapasite takip ve doluluk uyar sistemi projesi bitirildi.  
+- 07/06/2026  0:00:06.14: Simlasyonlar tamamland.  
