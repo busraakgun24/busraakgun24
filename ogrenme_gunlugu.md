@@ -18,3 +18,4 @@
 - 02/06/2026 23:56:26.71: Gîrsel programlama atîlye uygulamasçna yorum satçrlarç ekleniyor. 
 - 06/06/2026 23:58:39.18: Akçllç kÅtÅphane kapasite kapasite takip ve doluluk uyarç sistemi projesi bitirildi.  
 - 07/06/2026  0:00:06.14: SimÅlasyonlar tamamlandç.  
+- 08/06/2026 23:56:57.34: BÅtáe kontrol uygulamasç kodlandç. 
