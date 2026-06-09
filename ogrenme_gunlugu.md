@@ -19,3 +19,4 @@
 - 06/06/2026 23:58:39.18: Akll ktphane kapasite kapasite takip ve doluluk uyar sistemi projesi bitirildi.  
 - 07/06/2026  0:00:06.14: Simlasyonlar tamamland.  
 - 08/06/2026 23:56:57.34: Bt‡e kontrol uygulamas kodland. 
+- 09/06/2026 23:56:55.43: ˜nternet programlma a”devine baŸland. 
