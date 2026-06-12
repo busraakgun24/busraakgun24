@@ -20,3 +20,4 @@
 - 07/06/2026  0:00:06.14: SimÅlasyonlar tamamlandç.  
 - 08/06/2026 23:56:57.34: BÅtáe kontrol uygulamasç kodlandç. 
 - 09/06/2026 23:56:55.43: ònternet programlma aîdevine baülandç. 
+- 12/06/2026 23:47:40.90: Sayçsal Tasarçm ff tasarçmç konusuna áalçüçldç. 
