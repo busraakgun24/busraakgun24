@@ -24,3 +24,4 @@
 - 13/06/2026 23:58:54.21: Newton interpolasyonu îßrenildi 
 - 14/06/2026 23:57:10.44: Linear interppolasyon programç yazçldç 
 - 16/06/2026 23:54:56.58: Gîrsel programlama sçnavçna áalçüçldç. 
+- 17/06/2026 23:56:45.98: Sayçsal tasarçm sçnavçna áalçüçldç. 
