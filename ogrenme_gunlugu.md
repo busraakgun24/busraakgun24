@@ -25,3 +25,4 @@
 - 14/06/2026 23:57:10.44: Linear interppolasyon programç yazçldç 
 - 16/06/2026 23:54:56.58: Gîrsel programlama sçnavçna áalçüçldç. 
 - 17/06/2026 23:56:45.98: Sayçsal tasarçm sçnavçna áalçüçldç. 
+- 20/06/2026 23:53:40.81: òletiüim ve Sunum Teknikleri dersine áalçüçldç son Åá sçnav kaldç. 
