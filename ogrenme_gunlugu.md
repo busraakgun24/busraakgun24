@@ -26,3 +26,8 @@
 - 16/06/2026 23:54:56.58: Gîrsel programlama sçnavçna áalçüçldç. 
 - 17/06/2026 23:56:45.98: Sayçsal tasarçm sçnavçna áalçüçldç. 
 - 20/06/2026 23:53:40.81: òletiüim ve Sunum Teknikleri dersine áalçüçldç son Åá sçnav kaldç. 
+- 28/06/2026 22:14:13.29: Video Åretme sÅreáleri Åzerine áalçüçldç.
+- 28/06/2026 22:20:23.49: Video Åretme sÅreáleri Åzerine áalçüçldç. git add.
+- 28/06/2026 22:23:20.35: Pose estimation ve LSTM modelleri arastirildi. 
+- 28/06/2026 22:26:18.57: Pose estimation ve LSTM modelleri arastirildi.  git add .
+- 28/06/2026 22:26:29.66: Pose estimation ve LSTM modelleri arastirildi. 
