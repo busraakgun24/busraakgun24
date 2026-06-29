@@ -31,3 +31,4 @@
 - 28/06/2026 22:23:20.35: Pose estimation ve LSTM modelleri arastirildi. 
 - 28/06/2026 22:26:18.57: Pose estimation ve LSTM modelleri arastirildi.  git add .
 - 28/06/2026 22:26:29.66: Pose estimation ve LSTM modelleri arastirildi. 
+- 29/06/2026 23:53:46.04: Yeni palnlanan proje iáin araütçrma sÅreáleri takip ediliyor. 
