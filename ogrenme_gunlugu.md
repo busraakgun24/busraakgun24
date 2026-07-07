@@ -1,39 +1,29 @@
-<<<<<<< HEAD
-- 08/05/2026 14:27:59.16: Bugn yeni bir algoritma ‡”zld. 
-- 10/05/2026 23:58:44.16: Flip Floplara ‡alŸld. Saysal tasarm. 
-=======
-- 08/05/2026 14:27:59.16: BugÃ¼n yeni bir tasarÄ±m yapÄ±ldÄ± repo busraakgun24. 
->>>>>>> db1010ac001e4b99044cdcb227022a6b35795bbe
-- 11/05/2026 23:59:54.75: G”rnt iŸleme modellerinde veri seti optimizasyonu ve Teknofest proje dokmantasyonu zerine ‡alŸld. 
-- 14/05/2026 23:58:56.46: Pose estimation ve LSTM modelleri arastirildi. 
-- 18/05/2026 21:54:06.46: Akll ktphane sistemi devresi zerine ‡alŸld. 
-- 20/05/2026 22:41:00.17: Javascript ‡alŸld. 
-- 21/05/2026 23:43:55.81: Saysal tasarm laboratuvar deney 7 raporu hazrland. Simle edildi.  
-- 27/05/2026 21:16:03.47: Pose estimation ve LSTM modelleri arastirildi. 
-- 28/05/2026 23:57:58.78:Nmerik analiz gaus eleme y”ntemi program yazld. 
-- 29/05/2026 23:48:22.27:Nmerik analiz Gauss Seidel program yazld.  
-- 30/05/2026 23:59:11.28: G”rsel programlama uygulamas zerine ‡alŸld. 
-- 31/05/2026 23:57:37.21: Saysal analiz D tipi flip flop ‡alŸld 
-- 01/06/2026 23:58:48.33: Etkili iletiŸim dersi i‡in sunum hazrland. 
-- 02/06/2026 23:56:26.71: G”rsel programlama at”lye uygulamasna yorum satrlar ekleniyor. 
-- 06/06/2026 23:58:39.18: Akll ktphane kapasite kapasite takip ve doluluk uyar sistemi projesi bitirildi.  
-- 07/06/2026  0:00:06.14: Simlasyonlar tamamland.  
-- 08/06/2026 23:56:57.34: Bt‡e kontrol uygulamas kodland. 
-- 09/06/2026 23:56:55.43: ˜nternet programlma a”devine baŸland. 
-- 12/06/2026 23:47:40.90: Saysal Tasarm ff tasarm konusuna ‡alŸld. 
-- 13/06/2026 23:58:54.21: Newton interpolasyonu ”§renildi 
-- 14/06/2026 23:57:10.44: Linear interppolasyon program yazld 
-- 16/06/2026 23:54:56.58: G”rsel programlama snavna ‡alŸld. 
-- 17/06/2026 23:56:45.98: Saysal tasarm snavna ‡alŸld. 
-- 20/06/2026 23:53:40.81: ˜letiŸim ve Sunum Teknikleri dersine ‡alŸld son ‡ snav kald. 
-- 28/06/2026 22:14:13.29: Video retme sre‡leri zerine ‡alŸld.
-- 28/06/2026 22:20:23.49: Video retme sre‡leri zerine ‡alŸld. git add.
-- 28/06/2026 22:23:20.35: Pose estimation ve LSTM modelleri arastirildi. 
-- 28/06/2026 22:26:18.57: Pose estimation ve LSTM modelleri arastirildi.  git add .
-- 28/06/2026 22:26:29.66: Pose estimation ve LSTM modelleri arastirildi. 
-- 29/06/2026 23:53:46.04: Yeni palnlanan proje i‡in araŸtrma sre‡leri takip ediliyor. 
-- 29/06/2026 23:56:42.10: Proje i‡in video retme ‡alŸmalarna baŸland. 
-- 01/07/2026 23:52:48.23: butce_danismani program zerine ‡alŸld. 
-- 03/07/2026 23:56:06.47: Viddeo zerine altyaz eklme ‡alŸmas yapld..
-- 07/07/2026 23:51:28.29:Mana Atlas uygulamas geliŸtirildi. 
-- 07/07/2026 23:57:22.69:Quiz b”lm tasarland. 
+- 08/05/2026: `busraakgun24` reposunda yeni bir algoritma Ã§Ã¶zÃ¼ldÃ¼ ve tasarÄ±m gÃ¼ncellemeleri yapÄ±ldÄ±.
+- 10/05/2026: SayÄ±sal tasarÄ±m kapsamÄ±nda Flip-Flop (FF) mimarileri Ã¼zerine Ã§alÄ±ÅŸÄ±ldÄ±.
+- 11/05/2026: Teknofest projesi iÃ§in gÃ¶rÃ¼ntÃ¼ iÅŸleme modellerinde veri seti optimizasyonu ve proje dokÃ¼mantasyonu yapÄ±ldÄ±.
+- 14/05/2026: Pose estimation ve LSTM modelleri araÅŸtÄ±rÄ±ldÄ±.
+- 18/05/2026: AkÄ±llÄ± kÃ¼tÃ¼phane sistemi donanÄ±m devresi Ã¼zerine Ã§alÄ±ÅŸÄ±ldÄ±.
+- 20/05/2026: JavaScript mimarisi Ã¼zerine Ã§alÄ±ÅŸÄ±ldÄ±.
+- 21/05/2026: SayÄ±sal tasarÄ±m laboratuvarÄ± Deney 7 raporu hazÄ±rlandÄ± ve devre simÃ¼lasyonlarÄ± gerÃ§ekleÅŸtirildi.
+- 27/05/2026: Pose estimation ve LSTM modelleri Ã¼zerine literatÃ¼r araÅŸtÄ±rmalarÄ±na devam edildi.
+- 28/05/2026: NÃ¼merik analiz algoritmalarÄ±ndan Gauss Eleme yÃ¶nteminin programlamasÄ± yapÄ±ldÄ±.
+- 29/05/2026: NÃ¼merik analiz algoritmalarÄ±ndan Gauss-Seidel yÃ¶nteminin programlamasÄ± yazÄ±ldÄ±.
+- 30/05/2026: GÃ¶rsel programlama arayÃ¼z (GUI) uygulamalarÄ± Ã¼zerine Ã§alÄ±ÅŸÄ±ldÄ±.
+- 31/05/2026: SayÄ±sal analiz kapsamÄ±nda D-tipi Flip-Flop (D-FF) mimarisi Ã§alÄ±ÅŸÄ±ldÄ±.
+- 01/06/2026: Etkili Ä°letiÅŸim dersi iÃ§in akademik sunum hazÄ±rlÄ±klarÄ± yapÄ±ldÄ±.
+- 02/06/2026: GÃ¶rsel programlama atÃ¶lye uygulamasÄ±ndaki kodlarÄ±n sÃ¼rdÃ¼rÃ¼lebilirliÄŸi iÃ§in mimari yorum satÄ±rlarÄ± eklendi.
+- 06/06/2026: AkÄ±llÄ± kÃ¼tÃ¼phane kapasite takip ve doluluk uyarÄ± sistemi projesi baÅŸarÄ±yla bitirildi.
+- 07/06/2026: Proje sistem simÃ¼lasyonlarÄ± tamamlandÄ± ve test edildi.
+- 08/06/2026: BÃ¼tÃ§e kontrol uygulamasÄ± Ã§ekirdek mantÄ±ÄŸÄ± kodlandÄ±.
+- 09/06/2026: Ä°nternet programlama Ã¶devi proje sÃ¼reÃ§lerine baÅŸlandÄ±.
+- 12/06/2026: SayÄ±sal tasarÄ±m dersi kapsamÄ±nda Flip-Flop (FF) tasarÄ±mlarÄ±na Ã§alÄ±ÅŸÄ±ldÄ±.
+- 13/06/2026: SayÄ±sal yÃ¶ntemler kapsamÄ±nda Newton interpolasyonu teorisi Ã¶ÄŸrenildi.
+- 14/06/2026: Lineer interpolasyon algoritmasÄ±nÄ±n programÄ± yazÄ±ldÄ±.
+- 16/06/2026: GÃ¶rsel programlama final sÄ±navÄ± hazÄ±rlÄ±klarÄ± yapÄ±ldÄ±.
+- 17/06/2026: SayÄ±sal tasarÄ±m final sÄ±navÄ± iÃ§in devre Ã§Ã¶zÃ¼mleri Ã§alÄ±ÅŸÄ±ldÄ±.
+- 20/06/2026: Ä°letiÅŸim ve Sunum Teknikleri dersine Ã§alÄ±ÅŸÄ±ldÄ± (Kalan son 3 sÄ±nav sÃ¼reci yÃ¶netildi).
+- 28/06/2026: Video Ã¼retme sÃ¼reÃ§leri, Pose estimation ve LSTM modelleri Ã¼zerine paralel Ã§alÄ±ÅŸmalar yapÄ±ldÄ± ve repoya entegre edildi.
+- 29/06/2026: Yeni planlanan proje iÃ§in araÅŸtÄ±rma sÃ¼reÃ§leri ve video Ã¼retme Ã§alÄ±ÅŸmalarÄ±na baÅŸlandÄ±.
+- 01/07/2026: `butce_danismani` programÄ± modÃ¼lleri Ã¼zerine Ã§alÄ±ÅŸÄ±ldÄ±.
+- 03/07/2026: Video iÅŸleme sÃ¼reÃ§leri kapsamÄ±nda altyazÄ± ekleme otomasyonu Ã¼zerine Ã§alÄ±ÅŸÄ±ldÄ±.
+- 07/07/2026: Mana AtlasÄ± uygulamasÄ±nÄ±n temel yapÄ±sÄ± geliÅŸtirildi ve Quiz bÃ¶lÃ¼mÃ¼ tasarlandÄ±.
