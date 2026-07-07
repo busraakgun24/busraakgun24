@@ -35,3 +35,4 @@
 - 29/06/2026 23:56:42.10: Proje iáin video Åretme áalçümalarçna baülandç. 
 - 01/07/2026 23:52:48.23: butce_danismani programç Åzerine áalçüçldç. 
 - 03/07/2026 23:56:06.47: Viddeo Åzerine altyazç eklme áalçümasç yapçldç..
+- 07/07/2026 23:51:28.29:Mana Atlasç uygulamasç geliütirildi. 
