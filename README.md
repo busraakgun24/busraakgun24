@@ -1,34 +1,38 @@
 <div align="center">
-  <br><br>
-  <table border="0" cellpadding="25" cellspacing="0" style="background-color: #fdf5e6; border-radius: 20px; border: 3px solid #d2b48c;">
-    <tr>
-      <td align="center">
-        <h2 style="color: #5d4037; font-family: serif; font-style: italic;">"Algoritmaları Etnik Desenlerle Dokuyorum."</h2>
-        <hr style="border: 0.5px dashed #8fbc8f; width: 80%;">
-        <br>
-        <div align="left" style="color: #5d4037; line-height: 1.6; font-size: 16px; display: inline-block;">
-          <h3 style="color: #8fbc8f;">🚀 Engineering Focus & Milestones</h3>
-          <p>
-            Analitik düşünen, karmaşık problemleri çözmekten keyif alan ve her gün yeni bir teknoloji öğrenmeye<br>
-            odaklı bir bilgisayar mühendisi adayıyım. Amacım sadece kod yazmak değil; optimize, ölçeklenebilir ve<br>
-            sürdürülebilir sistemler tasarlamak.
-          </p>
-          <br>
-          <b>• Teknofest '26:</b> Non invaziv Hayvan sağlığı analizi odaklı Görüntü İşleme (Computer Vision) projesi.<br><br>
-          <b>• Teknofest '24:</b> Roket Yarışması Kapsamında Finalist Seviyesi.<br><br>
-          <b>• Envanter & Veritabanı:</b> PyQt5 ve SQLite mimarisiyle geliştirilmiş mağaza stok yönetimi ve kendin tasarla yazılımı.<br><br>
-          <b>• Donanım Mimarisi:</b> 555 Timer ve lojik kapılarla tasarlanan donanım seviyesi kapasite takip ve doluluk uyarı simülasyonu.<br><br>
-        </div>
-        <br><br><br>
-        <p align="center">
-          <img src="https://img.icons8.com/ios-filled/50/5d4037/python.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
-          <img src="https://img.icons8.com/ios-filled/50/5d4037/java-coffee-cup-logo.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
-          <img src="https://img.icons8.com/ios-filled/50/5d4037/c-sharp-logo.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
- <br>
-  <img src="https://img.shields.io/badge/Status-Sistem_Mimarisi_İnşa_Ediliyor-8fbc8f?style=for-the-badge&logo=git" />
+
+# Büşra Akgün
+
+### Computer Engineering Student  
+#### Computer Vision · System Design · Databases · Embedded Logic
+
+<br>
+
+> “Algoritmaları etnik desenlerle dokuyorum.”
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-2F243A?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-5C3D2E?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-3E2F5B?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-6B4E71?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-4A3B47?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
 </div>
+
+<br>
+
+---
+
+## 🧭 Engineering Focus
+
+I am a computer engineering student who enjoys building systems that are not only functional,  
+but also understandable, scalable and meaningful.
+
+My current interests live somewhere between:
+
+```txt
+computer vision     → seeing patterns
+system design       → building structure
+databases           → keeping memory organized
+embedded logic      → touching the hardware layer
+ethical technology  → remembering the human side
